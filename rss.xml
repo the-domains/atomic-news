@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Atomic News]]></title>
         <description><![CDATA[Atomic News]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/atomic-news/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 16:56:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 May 2016 16:58:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/atomic-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>A wonderful graph.</p>]]></description>
-            <link>undefineda-wonderful-graph/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/268f396a-1762-4ff3-aca8-fed4e6301873.jpg">]]></description>
+            <link>https://thegrid.ai/atomic-news/a-wonderful-graph/index.html</link>
             <guid isPermaLink="false">4aa44d03-b529-43ac-8885-c938589cd5f1</guid>
-            <pubDate>Tue, 24 May 2016 16:56:31 GMT</pubDate>
+            <pubDate>Tue, 24 May 2016 16:57:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
